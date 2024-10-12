@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "65ccc2b772b9930c",
+        "id": "6b506f800179d173",
         "type": "tabs",
         "children": [
           {
-            "id": "d1faec69c7078925",
+            "id": "c51f3364975a8c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1.2_Character/Kilo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -64,12 +64,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c9d97649dfb6e7f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1.2_Character/Kilo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1.2_Character/Kilo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1.2_Character/Kilo.md"
               }
             }
           },
           {
-            "id": "499c7a737bcb89af",
+            "id": "1b98b3efad0c92f3",
             "type": "leaf",
             "state": {
               "type": "inline-scripts-button-view",
@@ -138,22 +147,51 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d1faec69c7078925",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c51f3364975a8c06",
   "lastOpenFiles": [
-    "TO DO LIST.md",
+    "3.2_Planets",
     "README.md",
-    "Journals/Journal 1.md",
-    "Progress/Vow1.md",
-    "Progress/Progress1.md",
-    "Progress/Combat1.md",
-    "Progress/Captain_Deadeye.md",
+    "z_Support/inlineScripts/starforged_stats.sfile.md",
+    "z_Support/inlineScripts/starforged_progress.sfile.md",
+    "z_Support/inlineScripts/starforged_oracles.sfile.md",
+    "z_Support/inlineScripts/starforged_moves.sfile.md",
+    "1.3_Progress/Captain_Deadeye.md",
+    "1.2_Character/Kilo.md",
+    "z_Templates/Character_Template.md",
+    "z_Templates/Truths_Template.md",
+    "1.2_Character/Char1.md",
+    "z_Templates/Progress_Template.md",
+    "z_Templates/Oracle_Template.md",
+    "z_Templates/Moves_Template.md",
+    "z_Templates/Mech_Template.md",
+    "z_Templates/Clocks_Template.md",
+    "z_Templates/Asset_Template.md",
+    "z_Attachments",
+    "5._Lore",
+    "TO DO LIST.md",
+    "1._Journals/Journal 1.md",
+    "1.3_Progress/Vow1.md",
+    "1.3_Progress/Progress1.md",
+    "1.3_Progress/Combat1.md",
     "Character/Character_Sheet.md",
     "Character/Bonds.md",
     "Character/Quests.md"
