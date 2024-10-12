@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b506f800179d173",
+        "id": "b9e414af61ac4fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "c51f3364975a8c06",
+            "id": "8203bc1253b46610",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2_Character/Kilo.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.2_Character/Kilo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.2_Character/Kilo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.2_Character/Kilo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +157,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c51f3364975a8c06",
+  "active": "8203bc1253b46610",
   "lastOpenFiles": [
+    "1.2_Character/Kilo.md",
     "3.2_Planets",
     "README.md",
     "z_Support/inlineScripts/starforged_stats.sfile.md",
@@ -175,7 +167,6 @@
     "z_Support/inlineScripts/starforged_oracles.sfile.md",
     "z_Support/inlineScripts/starforged_moves.sfile.md",
     "1.3_Progress/Captain_Deadeye.md",
-    "1.2_Character/Kilo.md",
     "z_Templates/Character_Template.md",
     "z_Templates/Truths_Template.md",
     "1.2_Character/Char1.md",
