@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "6._Assets/Companion/Combat_Droid.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03a5966a42ae8ee6",
+            "id": "5b4daef094618de9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
+                "file": "1.2_Character/Kilo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e8a382f634dc57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1._Journals/2024-10-12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
+                "file": "1._Journals/2024-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
+                "file": "1._Journals/2024-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,16 +154,6 @@
             }
           },
           {
-            "id": "3b9fef3c9398d92a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md"
-              }
-            }
-          },
-          {
             "id": "1b98b3efad0c92f3",
             "type": "leaf",
             "state": {
@@ -159,7 +162,17 @@
             }
           },
           {
-            "id": "1fb069b6ea54d346",
+            "id": "3b9fef3c9398d92a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1._Journals/2024-10-12.md"
+              }
+            }
+          },
+          {
+            "id": "a9bb82c9d3c7b163",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -183,20 +196,32 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "copilot:Copilot Chat": false
     }
   },
-  "active": "03a5966a42ae8ee6",
+  "active": "6e8a382f634dc57b",
   "lastOpenFiles": [
+    "1.2_Character/Kilo.md",
+    "6._Assets/Path/Pilot.md",
+    "6._Assets/Path/Lightsaber_Training.md",
+    "6._Assets/Companion/Combat_Droid.md",
+    "6._Assets/Path/Padawan.md",
+    "6._Assets/Path/Ace.md",
+    "z_Templates/Asset_Template.md",
+    "z_Templates/Clocks_Template.md",
+    "z_Templates/Untitled.md",
+    "6._Assets/Companion/Jedi_Master.md",
+    "6._Assets/Companion/Astromech_Droid.md",
+    "6._Assets/Companion/Sidekick.md",
+    "z_Templates/Companion_Template.md",
+    "6._Assets/Companion/Banshee.md",
+    "README.md",
     "1._Journals/2024-10-12.md",
+    "4._Moves/Untitled",
     "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
     "2._NPCs/Zekka Thyne.md",
-    "1.2_Character/Kilo.md",
     "2._NPCs/Jaren Korr.md",
     "2._NPCs/Midnight Consortium.md",
-    "README.md",
     "5._Lore/1_Clone_Wars_Era/Adventures/Season 1/1.01 Echoes of the Past/Episode 1.md",
     "1._Journals/2024-10-09.md",
     "z_Custom_Prompts/Starforged_GM.md",
@@ -206,21 +231,8 @@
     "copilot-conversations",
     "copilot-conversations/Who_is_Roga_Danar@20241013_084532.md",
     "copilot-conversations/Who_is_Roga_Danar@20241013_082415.md",
-    "copilot-conversations/Who_is_Roga_Danar@20241013_082057.md",
-    "copilot-conversations/Who_is_Roga_Danar@20241013_081844.md",
-    "smart-chats/UNTITLED CHAT 2024-10-13 14 29 50.md",
     "smart-chats",
-    "5._Lore/1_Clone_Wars_Era/Overview.md",
-    "5._Lore/2_Empire_Era/Overview.md",
-    "z_Templates/Journals_Template.md",
     "3.2_Planets",
-    "z_Support/inlineScripts/starforged_stats.sfile.md",
-    "z_Support/inlineScripts/starforged_progress.sfile.md",
-    "z_Support/inlineScripts/starforged_oracles.sfile.md",
-    "z_Support/inlineScripts/starforged_moves.sfile.md",
-    "1.3_Progress/Captain_Deadeye.md",
-    "z_Templates/Character_Template.md",
-    "z_Templates/Truths_Template.md",
     "z_Attachments",
     "5._Lore"
   ]

@@ -9,7 +9,7 @@ Wits: 2
 Health: 5
 Spirit: 5
 Supply: 5
-Momentum: 2
+Momentum: 3
 Wealth: 0
 Wounded: ⬡
 Shaken: ⬡
@@ -29,8 +29,8 @@ Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_TrackImage: "[[progress-track-0.svg]]"
 Quests_XPEarned: 0
-Failures_Progress: 1
-Failures_TrackImage: "[[progress-track-1.svg]]"
+Failures_Progress: 3
+Failures_TrackImage: "[[progress-track-3.svg]]"
 Failures_XPEarned: 0
 ---
 # `=this.Name`
@@ -103,8 +103,14 @@ Failures_XPEarned: 0
 > ## Assets
 > ![[Logistician]]
 > 
-> ![[Blademaster]]
+> ![[Padawan]]
 > 
+> ![[Lightsaber_Training]]
+> 
+> ![[Pilot]]
+> 
+
+
 
 
 

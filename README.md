@@ -2,7 +2,7 @@
 
 This is the Obsidian Vault for my Forged in a galaxy game. Forged in a galaxy is a Iornsword: Starforged RPG set in the Star Wars universe. The game follows the main hero Roga Danar.
 
-This vault is heavily influenced by the [Forged in Obsidian](https://github.com/ericbright2002/Forged_in_Obsidian) project and the [Notes from the Forge](https://github.com/sizzleweet/NotesfromtheForge) project. I thank both the project maintainers for making my hobby fun.
+This vault is heavily influenced by the [Forged in Obsidian](https://github.com/ericbright2002/Forged_in_Obsidian) project, the [Notes from the Forge](https://github.com/sizzleweet/NotesfromtheForge) project, and the [Kybersworn](https://drive.google.com/drive/folders/1bnhf7ha5IOuDgiCYl2JOyzyVDum2qPDx?usp=drive_link) project. I thank all the project maintainers for providing tools to make my hobby easier and more enjoyable.
 
 I have retained quite a bit of the contents of the original README because it has information about starting a new campaign.
 
