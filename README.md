@@ -39,9 +39,9 @@ To get started playing, you'll first want to set up your own character.
 
 >[!TIP] ;;tbl reset
 
->[!TIP] ;;tbl add Oracles
+>[!TIP] ;;tbl add z_Oracles
 
-2. **Character File:** Under the `Characters` folder, you can add player characters (or a mech if using my Mecha Mercs supplement).  Character files can be named anything using letters, numbers, or underscore.  You <u>can't include spaces</u> in a character filename.  You might want to make the filename short like `Char1` if you are playing a multi-character game because you'll have to type the filename in each command.  If you're playing solo, you can leave off the filename from most commands and it will default to the first filename in the `Characters` folder.
+2. **Character File:** Under the `Character` folder, you can add player characters (or a mech if using my Mecha Mercs supplement).  Character files can be named anything using letters, numbers, or underscore.  You <u>can't include spaces</u> in a character filename.  You might want to make the filename short like `Char1` if you are playing a multi-character game because you'll have to type the filename in each command.  If you're playing solo, you can leave off the filename from most commands and it will default to the first filename in the `Characters` folder.
     - For each player character, set your stat values (Edge, Heart, Iron, Shadow, Wits) up in the frontmatter.  The frontmatter is the section at the top of a note enclosed by `---` marks.  These act like variables for many of the Inline Scripts, so make sure these are accurate.  You should also put your name in the frontmatter.  Down in the body of the note, you'll see a place with all the stats, meters, impacts, etc.
    
 3. **Character Assets:** In each player character file, scroll down to the bottom of the note and embed whichever assets you want your character to have.  Use the command `![[Ace]]` to embed the Ace asset for example.

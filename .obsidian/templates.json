@@ -1,3 +1,5 @@
 {
-  "folder": "Templates"
+  "folder": "z_Templates",
+  "dateFormat": "dddd, MMMM D, YYYY",
+  "timeFormat": "HH:mm"
 }

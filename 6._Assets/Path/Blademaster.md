@@ -3,7 +3,7 @@
 
 
 ## Abilities:
-- [ ] When you [Clash](Clash.md) or [Strike](Strike.md) in close quarters, add +1. On a strong hit with a match, you are unstoppable; mark progress.
+- [x] When you [Clash](Clash.md) or [Strike](Strike.md) in close quarters, add +1. On a strong hit with a match, you are unstoppable; mark progress.
 
 - [ ] If you [Gain Ground](Gain_Ground.md) by moving into close quarters against your foe, choose your approach.
 

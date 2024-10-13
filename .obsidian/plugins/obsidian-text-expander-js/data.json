@@ -47,7 +47,7 @@
       "address": "z_Support/inlineScripts/mythicv2.sfile.md"
     },
     {
-      "enabled": false,
+      "enabled": true,
       "address": "z_Support/inlineScripts/mythicgme.sfile.md"
     },
     {
@@ -55,7 +55,7 @@
       "address": "z_Support/inlineScripts/une.sfile.md"
     },
     {
-      "enabled": false,
+      "enabled": true,
       "address": "z_Support/inlineScripts/adventurecrafter.sfile.md"
     },
     {
@@ -99,7 +99,7 @@
       "address": "z_Support/inlineScripts/mythicv2_ui.sfile.md"
     },
     {
-      "enabled": false,
+      "enabled": true,
       "address": "z_Support/inlineScripts/mythicgme_ui.sfile.md"
     },
     {

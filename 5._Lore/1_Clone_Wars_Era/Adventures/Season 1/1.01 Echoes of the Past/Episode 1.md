@@ -12,7 +12,7 @@
 
 **Conflict**: Alara tests Roga's patience and emotional control by asking him to meditate and clear his mind, a challenge given his doubts about his place in the Jedi Order.
 
-**Ending**: The scene ends when Roga rolls a success when meditating, or attempts meditating three times. When the scene ends, a messenger arrives and gives a message to Master Alara that she and Roga are wanted in the Council room. Immediately begin scene two.
+**Ending**: The scene ends when Roga rolls a success when meditating, or attempts meditating three times. A messenger arrives and gives a message to Master Alara that she and Roga are wanted in the Council room. Immediately go to scene two.
 
 ##### Threats:
 
@@ -57,6 +57,7 @@
 
 **Conflict**: Roga is eager to act but must learn to follow Master Alara's measured approach, focusing on observation and information gathering.
 
+**Ending**: This scene ends when Roga leaves the Countil briefing room.
 ##### Threats:
 
 1. **Criminal Syndicate**: A shadowy criminal organization known as the [[Midnight Consortium]] is suspected to be involved in the disappearances. They operate from the lower levels of Coruscant, using corruption and fear to maintain control.

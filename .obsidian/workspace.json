@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b9e414af61ac4fa6",
+        "id": "3679cccfa6c7635a",
         "type": "tabs",
         "children": [
           {
-            "id": "8203bc1253b46610",
+            "id": "94080aa42ab061de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5ae505e57f01675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1._Journals/2024-10-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -89,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1._Journals/2024-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1._Journals/2024-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1._Journals/2024-10-12.md"
+              }
             }
           },
           {
@@ -157,11 +179,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8203bc1253b46610",
+  "active": "d5ae505e57f01675",
   "lastOpenFiles": [
+    "5._Lore/1_Clone_Wars_Era/Adventures/Season 1/1.01 Echoes of the Past/Episode 1.md",
+    "1._Journals/2024-10-12.md",
     "1.2_Character/Kilo.md",
-    "3.2_Planets",
     "README.md",
+    "5._Lore/1_Clone_Wars_Era/Overview.md",
+    "5._Lore/2_Empire_Era/Overview.md",
+    "z_Templates/Journals_Template.md",
+    "1._Journals/2024-10-09.md",
+    "3.2_Planets",
     "z_Support/inlineScripts/starforged_stats.sfile.md",
     "z_Support/inlineScripts/starforged_progress.sfile.md",
     "z_Support/inlineScripts/starforged_oracles.sfile.md",
@@ -181,10 +209,6 @@
     "TO DO LIST.md",
     "1._Journals/Journal 1.md",
     "1.3_Progress/Vow1.md",
-    "1.3_Progress/Progress1.md",
-    "1.3_Progress/Combat1.md",
-    "Character/Character_Sheet.md",
-    "Character/Bonds.md",
-    "Character/Quests.md"
+    "1.3_Progress/Progress1.md"
   ]
 }

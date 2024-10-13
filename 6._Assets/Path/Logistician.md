@@ -5,7 +5,7 @@
 ## Abilities:
 
 
-- [ ] When you focus or meditate to [Gather Information](Gather_Information.md) about a place, being, or situation (in person or remotely) by puzzling through the logical causes, effects or outcomes, boost.
+- [x] When you focus or meditate to [Gather Information](Gather_Information.md) about a place, being, or situation (in person or remotely) by puzzling through the logical causes, effects or outcomes, boost.
 
 - [ ] When you [Secure an Advantage](4._Moves/Adventure/Secure_an_Advantage.md) by researching the circumstances of a concerning situation looking for connections that others may have missed, you may reroll any dice.
 
