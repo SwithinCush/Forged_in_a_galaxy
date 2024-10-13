@@ -1,1 +1,14 @@
 .trash/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
+
+# This is here because the data.json file is where
+# the ChatGPT API Key is kept.
+# This key _must_ be kept secret and cannot be 
+# uploaded to github.com because the repository
+# is public!!!
+.obsidian/plugins/copilot/data.json

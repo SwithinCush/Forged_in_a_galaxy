@@ -58,6 +58,10 @@ Failures_XPEarned: 0
 > [!NOTE]- Equipment
 > Equipment
 > - Lightsaber
+> - Data pad
+> 	- Jaren Korr's last known location
+> 	- Jaren Korr's recent assignments
+> - 
 
 
 > [!NOTE]- Legacies

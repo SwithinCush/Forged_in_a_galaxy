@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3679cccfa6c7635a",
+        "id": "d838315551455091",
         "type": "tabs",
         "children": [
           {
-            "id": "94080aa42ab061de",
+            "id": "f401fff104766efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "d5ae505e57f01675",
+            "id": "03a5966a42ae8ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1._Journals/2024-10-12.md",
+                "file": "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1._Journals/2024-10-12.md",
+                "file": "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1._Journals/2024-10-12.md",
+                "file": "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1._Journals/2024-10-12.md"
+                "file": "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md"
               }
             }
           },
@@ -158,14 +157,21 @@
               "type": "inline-scripts-button-view",
               "state": {}
             }
+          },
+          {
+            "id": "1fb069b6ea54d346",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 563.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,19 +182,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "d5ae505e57f01675",
+  "active": "03a5966a42ae8ee6",
   "lastOpenFiles": [
-    "5._Lore/1_Clone_Wars_Era/Adventures/Season 1/1.01 Echoes of the Past/Episode 1.md",
     "1._Journals/2024-10-12.md",
+    "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
+    "2._NPCs/Zekka Thyne.md",
     "1.2_Character/Kilo.md",
+    "2._NPCs/Jaren Korr.md",
+    "2._NPCs/Midnight Consortium.md",
     "README.md",
+    "5._Lore/1_Clone_Wars_Era/Adventures/Season 1/1.01 Echoes of the Past/Episode 1.md",
+    "1._Journals/2024-10-09.md",
+    "z_Custom_Prompts/Starforged_GM.md",
+    "z_Copilot_Conversations",
+    "z_Custom_Prompts",
+    "copilot-conversations/Who_is_Roga_Danar@20241013_084630.md",
+    "copilot-conversations",
+    "copilot-conversations/Who_is_Roga_Danar@20241013_084532.md",
+    "copilot-conversations/Who_is_Roga_Danar@20241013_082415.md",
+    "copilot-conversations/Who_is_Roga_Danar@20241013_082057.md",
+    "copilot-conversations/Who_is_Roga_Danar@20241013_081844.md",
+    "smart-chats/UNTITLED CHAT 2024-10-13 14 29 50.md",
+    "smart-chats",
     "5._Lore/1_Clone_Wars_Era/Overview.md",
     "5._Lore/2_Empire_Era/Overview.md",
     "z_Templates/Journals_Template.md",
-    "1._Journals/2024-10-09.md",
     "3.2_Planets",
     "z_Support/inlineScripts/starforged_stats.sfile.md",
     "z_Support/inlineScripts/starforged_progress.sfile.md",
@@ -197,18 +221,7 @@
     "1.3_Progress/Captain_Deadeye.md",
     "z_Templates/Character_Template.md",
     "z_Templates/Truths_Template.md",
-    "1.2_Character/Char1.md",
-    "z_Templates/Progress_Template.md",
-    "z_Templates/Oracle_Template.md",
-    "z_Templates/Moves_Template.md",
-    "z_Templates/Mech_Template.md",
-    "z_Templates/Clocks_Template.md",
-    "z_Templates/Asset_Template.md",
     "z_Attachments",
-    "5._Lore",
-    "TO DO LIST.md",
-    "1._Journals/Journal 1.md",
-    "1.3_Progress/Vow1.md",
-    "1.3_Progress/Progress1.md"
+    "5._Lore"
   ]
 }

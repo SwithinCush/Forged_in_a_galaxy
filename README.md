@@ -15,7 +15,7 @@ Added "Force" attribute to the Character template, the z_Support files
 For the headings, I'm using [Xolonium font](https://www.fontspace.com/xolonium-font-f17644) and [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) as the interface font.
 
 ## Plugins
-This vault only works with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview), [Templater](https://github.com/SilentVoid13/Templater), and most importantly: [Inline Scripts](https://github.com/jon-heard/obsidian-inline-scripts) plugins.
+This vault only works with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview), [Templater](https://github.com/SilentVoid13/Templater), and most importantly: [Inline Scripts](https://github.com/jon-heard/obsidian-inline-scripts) plugins. I have also added the Advanced Tables plugin.
 
 ## CSS Snippet
 The `snippets.css` file contains all the folder icons, color coding of new callout boxes, title and header fonts, fixing the tasks so they don't strike through when marked, and an inversion code so that the SVG files will invert black/white based on light/dark mode.
