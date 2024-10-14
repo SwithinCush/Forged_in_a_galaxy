@@ -500,7 +500,7 @@ __
 ```js
 let options = [4, 6, 8, 10];
 var fileName = popups.input("What is the filename of the file to create?", "Clock1");
-_inlineScripts.inlineScripts.HelperFncs.fileWrite("Clocks/" + fileName + ".md", "");
+_inlineScripts.inlineScripts.HelperFncs.fileWrite("1.4_Clocks/" + fileName + ".md", "");
 var name = popups.input("What is the name of the clock?", "Incoming storm");
 var segments = popups.pick("How many segments should the clock have?", options, 1);
 expand("notevars set 1.4_Clocks/" + fileName + " Name " + name);
