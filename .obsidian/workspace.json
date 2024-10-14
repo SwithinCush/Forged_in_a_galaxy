@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2_Character/Kilo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e8a382f634dc57b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1._Journals/2024-10-12.md",
+                "file": "z_Custom_Prompts/Starforged_GM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1._Journals/2024-10-12.md",
+                "file": "z_Custom_Prompts/Starforged_GM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1._Journals/2024-10-12.md",
+                "file": "z_Custom_Prompts/Starforged_GM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1._Journals/2024-10-12.md"
+                "file": "z_Custom_Prompts/Starforged_GM.md"
               }
             }
           },
@@ -199,9 +186,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6e8a382f634dc57b",
+  "active": "a9bb82c9d3c7b163",
   "lastOpenFiles": [
+    "1._Journals/2024-10-12.md",
     "1.2_Character/Kilo.md",
+    "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
     "6._Assets/Path/Pilot.md",
     "6._Assets/Path/Lightsaber_Training.md",
     "6._Assets/Companion/Combat_Droid.md",
@@ -216,9 +205,7 @@
     "z_Templates/Companion_Template.md",
     "6._Assets/Companion/Banshee.md",
     "README.md",
-    "1._Journals/2024-10-12.md",
     "4._Moves/Untitled",
-    "z_Copilot_Conversations/{I_want_to_play_a_Starforged_RPG_game_and_you@20241013_085831.md",
     "2._NPCs/Zekka Thyne.md",
     "2._NPCs/Jaren Korr.md",
     "2._NPCs/Midnight Consortium.md",
