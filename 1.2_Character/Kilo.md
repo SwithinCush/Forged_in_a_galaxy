@@ -99,16 +99,27 @@ Failures_XPEarned: 0
 > FROM #incomplete WHERE file.name != "Progress_Template" 
 > ```
 
-> [!NOTE]- Assets
-> ## Assets
-> ![[Logistician]]
-> 
-> ![[Padawan]]
-> 
+## Assets
+> [!NOTE]- Lightsaber Training
 > ![[Lightsaber_Training]]
-> 
+
+> [!NOTE]- Kinetic
+> ![[Kinetic]]
+
+> [!NOTE]- Logistician
+> ![[Logistician]]
+
+> [!NOTE]- Padawan
+> ![[Padawan]]
+
+> [!NOTE]- Pilot
 > ![[Pilot]]
-> 
+
+## Companions
+
+> [!NOTE]- Jedi Master
+> ![[Jedi_Master]]
+
 
 
 
