@@ -1,9 +1,6 @@
 
 # Episode 1: "A New Beginning"
 
-
-![[ChatGPT Preamble]]
-
 ## Scene 1: The Arrival
 
 ##### Location: Jedi Temple, Coruscant
@@ -12,7 +9,7 @@
 
 **Conflict**: Alara tests Roga's patience and emotional control by asking him to meditate and clear his mind, a challenge given his doubts about his place in the Jedi Order.
 
-**Ending**: The scene ends when Roga rolls a success when meditating, or attempts meditating three times. A messenger arrives and gives a message to Master Alara that she and Roga are wanted in the Council room. Immediately go to scene two.
+**Ending**: The scene ends when Roga rolls a success when meditating, or attempts meditating three times. A messenger arrives and gives a message to Master Alara that she and Roga are wanted in the Council room. Go to scene two.
 
 ##### Threats:
 
